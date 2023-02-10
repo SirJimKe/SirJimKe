@@ -22,7 +22,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"/>
 </div>
 :desktop_computer: About Me :
-I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya.
+I am a Full Stack Engineer from Nairobi, Kenya.
 
 - :telescope: I’m working as a Software Engineer and an open-source contributer.
 - :seedling: Exploring Technical Content & Blog Writing.
