@@ -24,10 +24,10 @@
 :desktop_computer: About Me :
 I am a Full Stack Engineer from Nairobi, Kenya.
 
-- :telescope: I’m working as a Software Engineer and an open-source contributer.
+- :telescope: I’m a Software Engineer and an open-source contributor.
 - :seedling: Exploring Technical Content & Blog Writing.
-- 🔭 I’m currently working on Angular, Typescript, Python, JavaScript, Reactjs, Ruby & Ruby on rails.
-- 👯 I’m looking to collaborate on Frontend Development
+- 🔭 I’m working on Angular, Typescript, Python, JavaScript, Reactjs, Ruby & Ruby on Rails.
+- 👯 I’m looking to collaborate on Frontend & Backend Development
 - 💬 Ask me about Software development
 - 📫 How to reach me: email: jimmymutuku1@gmail.com
 
